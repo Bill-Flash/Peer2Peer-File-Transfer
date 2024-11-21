@@ -4,7 +4,7 @@ This a Generation 2 Peer-to-Peer (P2P) system that establishes the file sharing 
 Author: Bill-Flash
 
 Time: Nov.2021
-
+![](./pic.jpg)
 ## The design of my system:
 Most of my designs come from the descriptions on the assignment, but at the same time I have my own innovations in them. I have designed a main server to continuously receive and connect to multiple clients and to respond to client requests, i.e. messages, in order to complete the functionality, and a P2P implementation where the two peers are notified by the server about file sharing sessions. How to implement DHTs will show on Section 4. 
 1. Firstly, the client connects to the server and opens a listening thread for the client, I use a validation to see if the client’s name is already in the UHPT to allow the client to connect (reliability). 
