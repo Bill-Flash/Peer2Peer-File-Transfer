@@ -25,7 +25,7 @@ Most of my designs come from the descriptions on the assignment, but at the same
 ## Performance statistics
 1.	The time for client receiving the DHRT (establishment times of clients): 38ms – 104ms
 2.	The time takes from requesting to finally update DHRT and end up the P2P connection: 19ms(4byte), 159ms(111KB), 361ms(1.1MB), 659(14.3MB), 892ms(44MB), 3045ms(190.7MB), 10042ms(630.3MB), 17296ms(1.16G)
-![performance](./pic.jpg)
+![performance](./test.jpg)
 3.	The bandwidth of P2P connection: (b/s)
 111KB/19ms = 47858526 b/s
  
