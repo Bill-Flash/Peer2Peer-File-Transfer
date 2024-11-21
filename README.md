@@ -1,5 +1,5 @@
 # Peer2Peer-File-Transfer
-This a Java project.
+This a Generation 2 Peer-to-Peer (P2P) system that establishes the file sharing with a Distributed Hash Table (DHT).
 
 Author: Bill-Flash
 
